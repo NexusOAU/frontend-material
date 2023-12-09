@@ -22,7 +22,7 @@ If you want to fix any issue regarding the ui, hooks, state etc, just go to the 
 
 Here is the structure you need to understand.
 
-<code>
+```
 | src 
 ———— app
   |———— layout.tsx
@@ -51,8 +51,7 @@ Here is the structure you need to understand.
    
 | states
    |——— useAuth.ts
-
-</code>
+```
 
 If you understand the structure here, check the code and try to open all folders to check which and what file is inside.
 
