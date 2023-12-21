@@ -12,7 +12,6 @@ This is an open source project,anyone from any continent can contribute.
 
 ## Important Notice
 
-If you are assigned a task and you are unable to give an update about your progress solving the issue within 5 days, it'll be unassigned to you so that other people who want to work on it can do so.
 
 Do not fix any code or add any feature that hasn't been defined in the issues. An Issue is like a ticket, pick one and solve.
 
