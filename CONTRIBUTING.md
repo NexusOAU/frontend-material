@@ -60,8 +60,6 @@ Now is the time to start making an impact with us 🔥
 
 If you just want to request a feature or report a bug, please create an issue and we will check it out.
 
-Your PR will be considered only if the issue is assigned to you, so ensure you show interest to fix an issue first
-
 If you want to contribute by writing code, kindly check the issues, pick the one you want to fix and check this guide to make a contribution:
 
 ### Step 1 🍴🍴
