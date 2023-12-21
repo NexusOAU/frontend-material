@@ -5,8 +5,7 @@ kindly be patient and read this contributing guide.
 
 ## About the project
 
-Nexus App (Brand name will be updated soon) makes it easy for students to get access to Academic materials and a lot more, in one app. Basically for now,
-we are focused in aggregating and organizing lecture resources for OAU students.
+Nexus App (App name will be updated soon) makes it easy for students to get access to Academic materials and a lot more, in one app. Basically for now, we are focused in aggregating and organizing lecture resources for students.
 
 ## The stacks for the Frontend
 
@@ -53,13 +52,15 @@ Here is the structure you need to understand.
    |——— useAuth.ts
 ```
 
-If you understand the structure here, check the code and try to open all folders to check which and what file is inside.
+If you don't understand the structure here, check the code and try to open all folders to check which and what file is inside.
 
 ## Making a contribution
 
 Now is the time to start making an impact with us 🔥 
 
 If you just want to request a feature or report a bug, please create an issue and we will check it out.
+
+Your PR will be considered only if the issue is assigned to you, so ensure you show interest to fix an issue first
 
 If you want to contribute by writing code, kindly check the issues, pick the one you want to fix and check this guide to make a contribution:
 
