@@ -76,6 +76,7 @@ export const InputField = ({
                     {...field}
                     inputMode={inputMode}
                     type={type}
+                    className="text-[15px]"
                   />
                 ) : (
                   <Textarea
@@ -86,7 +87,7 @@ export const InputField = ({
                 )}
               </FormControl>
               {showDescription && (
-                <FormDescription>{description}</FormDescription>
+                <FormDescription className="text-[12px]">{description}</FormDescription>
               )}
               <FormMessage />
             </FormItem>

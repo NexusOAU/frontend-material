@@ -15,11 +15,10 @@ import { LoginSchema } from "@/components/Schemas/login.schema";
 
 const LoginForm = () => {
     const router = useRouter();
-  
-   
+
   
     const form = useForm<z.infer<typeof LoginSchema>>({
-      resolver: zodResolver(RegisterSchema),
+      resolver: zodResolver(LoginSchema),
       defaultValues: {
         email: "",
         password: "",
@@ -32,7 +31,7 @@ const LoginForm = () => {
      
      console.log(values)
   
-      router.push("/onboarding");
+      router.push("/explore");
 
     };
   

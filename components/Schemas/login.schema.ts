@@ -8,8 +8,6 @@ const fetchEmails = () => {
 
 
 export const LoginSchema = z.object({
-  username: z.string().min(5,  {message: "username is required"}).max(15),
-
 //   email
      email: z
       .string()
