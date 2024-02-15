@@ -31,7 +31,7 @@ const LoginForm = () => {
      
      console.log(values)
   
-      router.push("/explore");
+      router.push("/app/explore");
 
     };
   
@@ -63,7 +63,7 @@ const LoginForm = () => {
               type="password"
             
             />
-  
+
   
             <Button disabled={isLoading} type="submit" className="w-full mt-[70px!important] md:mt-[20px!important]">
             {isLoading && (
