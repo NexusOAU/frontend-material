@@ -33,7 +33,7 @@ const SignupForm = () => {
      
      console.log(values)
   
-      router.push("/onboarding");
+      router.push("/app/explore");
 
     };
   
